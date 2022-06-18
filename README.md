@@ -2,7 +2,7 @@
 
 
 
-## Creation of the system to train my skills as a back end developer and updated according to my skills
+## Creation of the system to train my skills as a back-end developer and updated according to my skills
 
 ### Requirements
 
@@ -12,10 +12,14 @@
 
 [X] Deposit 
 
-[] ?? (creating)
+[X] Withdraw 
+
+[X] Account transactions
+
+[X] Account delete
 
 
-### Business rules
+### Business rules - must not be possible
 
 [X] Duplicate data (CPF)
 
@@ -23,7 +27,10 @@
 
 [X] Make deposits in account not existent
 
-[] ?? (creating)
+[X] Withdraw credit in account not existent
 
+[X] Withdraw credit with insufficient balance 
+
+[X] Delete account not existent
 
 **Obs: The project doesn't use API but will be added**
