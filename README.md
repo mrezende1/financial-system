@@ -2,7 +2,7 @@
 
 
 
-## Creation of the system to train my skills as a back-end developer and updated according to my skills
+## Creation of the system to train my skills as a back-end developer 
 
 ### Requirements
 
