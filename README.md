@@ -1,6 +1,6 @@
 #  Welcome to the Financial-System wiki!
 
-
+ 
 
 ## Creation of the system to train my skills as a back-end developer 
 
